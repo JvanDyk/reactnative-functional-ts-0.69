@@ -30,6 +30,10 @@ After installation:
 react-native info to test if react-native package is insalled
 react-native run-anroid or npm run start or npm run android
 
+
+![alt text](http://https://github.com/JvanDyk/reactnative-functional-ts-0.69/hello_world.png)
+
+
 helpful Commands
 npm run audit fix --force
 Delete node_modules & package-lock.json to re install packages with npm install
