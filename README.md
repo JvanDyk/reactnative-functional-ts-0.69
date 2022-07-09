@@ -15,9 +15,9 @@ Requirements:
 -Python
 
 Add System variables:
-ANDROID_HOME: C:\Users\User\AppData\Local\Android\Sdk,
+ANDROID_HOME: C:\Users\<your_username>\AppData\Local\Android\Sdk,
 JAVA_HOME: C:\Program Files\OpenJDK\jdk-18.0.1.1,
-Path +: C:\Users\User\AppData\Local\Android\Sdk\platform-tools,
+Path +: C:\Users\<your_username>\AppData\Local\Android\Sdk\platform-tools,
 PYTHON
 
 Installation
@@ -41,3 +41,8 @@ Delete node_modules & package-lock.json to re install packages with npm install
 Create new React-Native project Commands
 create-react-native-app <project-name>
 npx react-native init <project-name> --version 0.69
+
+Hope you get it right, if you get stuck, try and google the error. In most cases it is related to some package or config missing.
+Also if you want to copy this project, you will see app.json the project name is cml, you need to find and replace everywhere, where cml is being used and then delete node_modules & package-lock.json and reinstall with npm install.
+
+Good Luck.
