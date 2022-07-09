@@ -31,7 +31,7 @@ react-native info to test if react-native package is insalled
 react-native run-anroid or npm run start or npm run android
 
 
-![alt text](http://https://github.com/JvanDyk/reactnative-functional-ts-0.69/hello_world.png)
+![alt text](http://github.com/JvanDyk/reactnative-functional-ts-0.69/blob/main/hello_world.png)
 
 
 helpful Commands
