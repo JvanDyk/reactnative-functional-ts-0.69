@@ -15,10 +15,10 @@ Requirements:
 -Python
 
 Add System variables:
-ANDROID_HOME: C:\Users\User\AppData\Local\Android\Sdk
-JAVA_HOME: C:\Program Files\OpenJDK\jdk-18.0.1.1
-Path +: C:\Users\User\AppData\Local\Android\Sdk\platform-tools
-Python
+ANDROID_HOME: C:\Users\User\AppData\Local\Android\Sdk,
+JAVA_HOME: C:\Program Files\OpenJDK\jdk-18.0.1.1,
+Path +: C:\Users\User\AppData\Local\Android\Sdk\platform-tools,
+PYTHON
 
 Installation
 1. npm install -g create-react-native-app
