@@ -24,11 +24,11 @@ Installation
 1. npm install -g create-react-native-app
 2. npm install -g react-native-cli
 3. npm install -g expo-cli
-4. Navigate to directory root, run npm install
+4. Navigate to this repository directory root, run npm install
 
 After installation:
 react-native info to test if react-native package is insalled
-react-native run-anroid or npm run start or npm run android
+react-native run-anroid or npm run start or npm run android to start running your application. If this didn't work, stop all the processes by pressing ctrl + c in your terminal and open the virtual device manager tool inside Android Studio, if you have not added a device, do so with all the default average settings, like mine is Nexus One API 25. You can always create new devices. Once you have a device click on play where your devices are listed and then down the Actions tab. Once your device is running you can now go back to the repo and run the react-native run-android command in the terminal.
 
 
 ![alt text](https://github.com/JvanDyk/reactnative-functional-ts-0.69/blob/main/hello_world.png)
